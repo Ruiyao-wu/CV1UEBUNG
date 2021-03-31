@@ -37,4 +37,5 @@ Problem 2: Estimating Optical Flow
   estimate optical flow (OF) using the Lucas-Kanade method and  the iterative coarse-to-fine strategy
 
 Bonus Assignment  Neural Networks
+
   design a multilayer perceptron (MLP) to classify bike and plane images, implement forward and backward propagation for the neural network
