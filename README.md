@@ -12,6 +12,7 @@ Problem 3: Projective Transformation
 Problem 4: Image Filtering and Edge Detection
   compute image derivatives and create a simple edge detector with non-maximum suppression
 
+
 Assignment 2 Image Pyramids and PCA
 
 Problem 1:Image Pyramids and Image Sharpening
@@ -19,6 +20,7 @@ Problem 1:Image Pyramids and Image Sharpening
   
 Problem 2:PCA on Face Images
   working with a training database of human face images and build a low-dimensional model of the face appearance using Principal Component Analysis (PCA).
+
 
 Assignment 3 Interest points detection and image stitching
 
@@ -28,6 +30,7 @@ Problem 1: Hessian Detector
 Problem 2: Image Stitching
   use RANSAC to estimate the homography matrix based on SIFT point correspondences in both images.
 
+
 Assignment 4
 
 Problem 1: Eight-point algorithm
@@ -35,6 +38,7 @@ Problem 1: Eight-point algorithm
   
 Problem 2: Estimating Optical Flow
   estimate optical flow (OF) using the Lucas-Kanade method and  the iterative coarse-to-fine strategy
+
 
 Bonus Assignment  Neural Networks
 
