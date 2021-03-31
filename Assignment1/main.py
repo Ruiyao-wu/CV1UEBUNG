@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from numpy.linalg import inv
 
+
 def load_image(path):
     return plt.imread(path)
 
